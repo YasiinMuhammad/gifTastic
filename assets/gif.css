@@ -1,0 +1,11 @@
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+.container{
+  text-align: center;
+  background-color: #2fbece9a;
+}
